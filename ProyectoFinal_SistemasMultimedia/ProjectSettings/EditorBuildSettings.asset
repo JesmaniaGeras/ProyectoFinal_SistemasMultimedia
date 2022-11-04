@@ -6,6 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: ba64d94177ce5a046b49a956042db160
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Programador1.unity
+    guid: 2cfb2fb42c78701498fa0469a2116c85
+  - enabled: 1
+    path: Assets/Scenes/Programador2.unity
+    guid: 746533652524bc043a44654da4fe212d
+  - enabled: 1
+    path: Assets/Scenes/ProyectoImportanteH.unity
+    guid: c218af549863bad41b26db25d1f54c73
+  - enabled: 1
+    path: Assets/Scenes/ProyectoImportanteV.unity
+    guid: 5f214796c588b0440b41851b6c4b38e9
+  - enabled: 1
+    path: Assets/Scenes/RealidadAumentada.unity
+    guid: 6025350fa31472d4a9c04a99c04813d7
   m_configObjects: {}
