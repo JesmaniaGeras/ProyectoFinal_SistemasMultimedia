@@ -9,7 +9,7 @@ public class AnimacionProgramadorUno : MonoBehaviour
     void Start()
     {
         contenedor.localPosition = new Vector2(0, -(Screen.height + 130));
-        contenedor.LeanMoveLocalY(-60, 2f).setEaseOutExpo();
+        contenedor.LeanMoveLocalY(-160, 2f).setEaseOutExpo();
     }
 
     // Update is called once per frame

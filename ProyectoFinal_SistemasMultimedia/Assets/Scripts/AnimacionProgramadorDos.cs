@@ -8,7 +8,7 @@ public class AnimacionProgramadorDos : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        contenedor.localPosition = new Vector2(-(Screen.width + 130), -87);
+        contenedor.localPosition = new Vector2(-(Screen.width + 130), -140);
         contenedor.LeanMoveLocalX(5, 2f).setEaseOutExpo();
     }
 
